@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016956920877",
+    "project_id": "learnfirebase2-f340e",
+    "storage_bucket": "learnfirebase2-f340e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016956920877:android:802c9c864584e25d0584a4",
+        "android_client_info": {
+          "package_name": "com.example.learnfirebasebytutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016956920877-6q0it03rrd98rd2l0p51rqf2jnnhnp57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnfirebasebytutorials",
+            "certificate_hash": "d88f73a3cde790813a18667e9db26299d33ac44b"
+          }
+        },
+        {
+          "client_id": "1016956920877-nfscjpnhs03jt100or1on8gjepd75u1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaoWcs4DwKskJr0LHL0Olop6_AYkxlwEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016956920877-nfscjpnhs03jt100or1on8gjepd75u1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
